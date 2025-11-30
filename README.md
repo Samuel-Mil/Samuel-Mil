@@ -5,5 +5,5 @@ Currently, I am pursuing a Bachelor's degree in Software Engineering, where I ac
 
 I am particularly interested in fast-paced and innovative projects, especially within startup contexts. I enjoy working on open-source and personal projects that allow me to explore new technologies and improve my development skills.
 
-At the moment, I am expanding my knowledge in backend development by learning .NET Core with C#.<br><br><br>
+At the moment, I am expanding my knowledge in cloud computing and DevOps.<br><br><br>
 
