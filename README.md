@@ -1,5 +1,5 @@
 ### About Me:
-I am a Software Engineer working primarily with PHP and Java stacks and Cloud Computng techs like Linux, Docker and AWS. I specialize in webs systems workiing as fulsstack developer and projec manager in some products, building reliable web applications.
+I am a Software Engineer working primarily with PHP and Java stacks and Cloud Computing techs like Linux, Docker and AWS. I specialize in webs systems working as fullstack developer and project manager in some products, building reliable web applications.
 
 Currently, I am pursuing a Bachelor's degree in Software Engineering, where I actively participate in internal university projects involving artificial intelligence and web development. I am also a member of the university's in-house startup team, contributing and guiding to real-world solutions in a collaborative environment.
 
