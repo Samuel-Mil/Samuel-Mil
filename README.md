@@ -9,7 +9,7 @@ At the moment, I am expanding my knowledge in Cloud Computing and DevOps.<br>
 
 ### What I am focusing on at work
 
- - Building and maintaining MinhGAB, a administrator of ambulatory clinical documentation for Brazilian Air Force (FAB) clinics. And FinAI, an app where AI helps you improve your finances.
+ - Building and maintaining MinhaGAB, a administrator of ambulatory clinical documentation for Brazilian Air Force (FAB) clinics. And FinAI, an app where AI helps you improve your finances.
 
 
 ### Learning and Side projects
